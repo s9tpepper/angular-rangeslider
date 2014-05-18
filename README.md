@@ -9,7 +9,6 @@ It has been styled to match form elements styled by [Twitter's Bootstrap CSS fra
 #### Requirements
 
 - Angular (v1.1.4+)
-- jQuery (v1.7+)
 
 GitHub Pages
 ------------
@@ -151,7 +150,6 @@ or vertical:
 To Do
 -----
 
-- Remove full jQuery dependency
 - Make it work in older Angular versions
 - Improve behaviour when model values are not valid (e.g. min is greater than max)
 - Improve the dev architecture (add jshint, tests, minification, auto-versioning etc)
